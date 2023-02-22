@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Session 7</string>
+
+    <string name="primary_color_red">Red</string>
+    <string name="tertiary_color_red_violet">Red Violet</string>
+    <string name="secondary_color_violet">Violet</string>
+    <string name="tertiary_color_blue_violet">Blue Violet</string>
+    <string name="primary_color_blue">Blue</string>
+    <string name="tertiary_color_blue_green">Blue Green</string>
+    <string name="secondary_color_green">Green</string>
+    <string name="tertiary_color_yellow_green">Yellow Green</string>
+    <string name="primary_color_yellow">Yellow</string>
+    <string name="tertiary_color_yellow_orange">Yellow Orange</string>
+    <string name="secondary_color_orange">Orange</string>
+    <string name="tertiary_color_red_orange">Red Orange</string>
+
+    <string name="show_colors">Show %s Colors</string>
+    <string name="hide_colors">Hide %s Colors</string>
+
+    <string name="primary">Primary</string>
+    <string name="secondary">Secondary</string>
+    <string name="tertiary">Tertiary</string>
+
+
+</resources>
